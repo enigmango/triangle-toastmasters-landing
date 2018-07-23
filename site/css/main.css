@@ -32,7 +32,7 @@ hr.star-dark:after {
   display: inline-block;
   padding: 0 0.25em;
   content: '\f005';
-  font-family: FontAwesome;
+  font-family: "Font Awesome 5 Free";
   font-size: 2em;
 }
 
@@ -231,7 +231,7 @@ header.masthead h2 {
     margin-bottom: 30px;
   }
 }
-
+/* 
 .portfolio-modal .portfolio-modal-dialog {
   padding: 3rem 1rem;
   min-height: calc(100vh - 2rem);
@@ -266,7 +266,7 @@ header.masthead h2 {
   .portfolio-modal .portfolio-modal-dialog h2 {
     font-size: 3rem;
   }
-}
+} */
 
 .floating-label-form-group {
   position: relative;

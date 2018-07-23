@@ -3,7 +3,7 @@ image: alpine:latest
 pages:
   stage: deploy
   script:
-  - echo 'Nothing to do. Just 404s now though.'
+  - echo 'Deploying site!'
   artifacts:
     paths:
     - public
