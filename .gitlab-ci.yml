@@ -6,6 +6,6 @@ pages:
   - echo 'Deploying site!'
   artifacts:
     paths:
-    - site
+    - public
   only:
   - master
